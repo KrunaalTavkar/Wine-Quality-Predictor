@@ -72,8 +72,8 @@ There is a further implementation of Polynomial Regression, which maps the given
     Power = 3
     MX DiM: (4399, 33)
     White Dim: (4399, 34)
-    (3519, 34)
-    best lambd is 0.0001
+    AM: (3519, 34)
+    Best Lambda is 0.0001
     MAE on train is 0.56318
     MAE on val is 0.58117
     MAE on test is 0.58448
@@ -81,8 +81,8 @@ There is a further implementation of Polynomial Regression, which maps the given
     Power = 4
     MX DiM: (4399, 44)
     White Dim: (4399, 45)
-    (3519, 45)
-    best lambd is 0.0001
+    AM: (3519, 45)
+    Best Lambda is 0.0001
     MAE on train is 0.56024
     MAE on val is 0.58280
     MAE on test is 1.27799
@@ -90,8 +90,8 @@ There is a further implementation of Polynomial Regression, which maps the given
     Power = 5
     MX DiM: (4399, 55)
     White Dim: (4399, 56)
-    (3519, 56)
-    best lambd is 0.01
+    AM: (3519, 56)
+    Best Lambda is 0.01
     MAE on train is 0.55637
     MAE on val is 0.57013
     MAE on test is 4.99187
